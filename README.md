@@ -15,5 +15,5 @@ Here is the demo of the paper Shot Retrieval and Assembly with Text Script for V
 
 # VSPD Dataset
 
-We release the introduced VSPD dataset, which contains 4365 script-video pairs that consist of 19613 shots in total. All shots and annotation files can be downloaded from google driver 
+We release the introduced VSPD dataset, which contains 4365 script-video pairs that consist of 19613 shots in total. All shots and annotation files can be downloaded from [google driver](https://drive.google.com/drive/folders/1VFtgqw8QivFwUHx5E4vawIj7vW3oH0As?usp=sharing). All released shot videos are resized to 480\*270, which has no influence on the training and generation.
 
