@@ -13,6 +13,21 @@ Here is the demo of the paper Shot Retrieval and Assembly with Text Script for V
 *``Spinners are the most vocal of all the dolphins. They use echolocation, a kind of sonar, to find their prey. Each hunter sends out a series of clicks, and then listens for returning echoes, allowing them to scan for distant prey, hundreds of metres away.''*  
 <p align="left"><img width="95%" src="assets/sample2.png" /></p>
 
+**[Video 3](https://youtu.be/o6jFBBMmJ9c)**
+
+*``I go and lie down where the wood drake rests in his beauty on the water, and the great heron feeds. I come into the peace of wild things who do not tax their lives with forethought of grief. I come into the presence of still water. And I feel above me the day-blind stars waiting for their light.''*  
+<p align="left"><img width="95%" src="assets/sample1.png" /></p>
+
+**[Video 4](https://youtu.be/o6jFBBMmJ9c)**
+
+*``We embark from Argentina to the antarctic, and have a wonderful journey in this winter vacation. When the ship travels on the vase sea, it rolls in the waves heavily, we thus have to stay in the room to have a rest. As the time time goes on, it becomes cold gradually, and we can see icebergs floating on the sea now. There are many penguins walking on the ice.''*  
+<p align="left"><img width="95%" src="assets/sample1.png" /></p>
+
+**[Video 5](https://youtu.be/o6jFBBMmJ9c)**
+
+*``You raise me up so I can stand on mountains. You raise me up to walk on stormy seas.''*  
+<p align="left"><img width="95%" src="assets/sample1.png" /></p>
+
 # VSPD Dataset
 
 We release our constructed VSPD dataset, which contains 4365 script-video pairs that consist of 19613 shots in total. All shots and annotation files can be downloaded from the anoymous [google driver](https://drive.google.com/drive/folders/1VFtgqw8QivFwUHx5E4vawIj7vW3oH0As?usp=sharing). All released shot videos are resized to 480 \* 270, which has no influence on the training and generation.
