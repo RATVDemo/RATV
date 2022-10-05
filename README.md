@@ -16,17 +16,17 @@ Here is the demo of the paper Shot Retrieval and Assembly with Text Script for V
 **[Video 3](https://youtu.be/o6jFBBMmJ9c)**
 
 *``I go and lie down where the wood drake rests in his beauty on the water, and the great heron feeds. I come into the peace of wild things who do not tax their lives with forethought of grief. I come into the presence of still water. And I feel above me the day-blind stars waiting for their light.''*  
-<p align="left"><img width="95%" src="assets/sample1.png" /></p>
+<p align="left"><img width="95%" src="assets/sample3.png" /></p>
 
 **[Video 4](https://youtu.be/o6jFBBMmJ9c)**
 
 *``We embark from Argentina to the antarctic, and have a wonderful journey in this winter vacation. When the ship travels on the vase sea, it rolls in the waves heavily, we thus have to stay in the room to have a rest. As the time time goes on, it becomes cold gradually, and we can see icebergs floating on the sea now. There are many penguins walking on the ice.''*  
-<p align="left"><img width="95%" src="assets/sample1.png" /></p>
+<p align="left"><img width="95%" src="assets/sample4.png" /></p>
 
 **[Video 5](https://youtu.be/o6jFBBMmJ9c)**
 
 *``You raise me up so I can stand on mountains. You raise me up to walk on stormy seas.''*  
-<p align="left"><img width="95%" src="assets/sample1.png" /></p>
+<p align="left"><img width="95%" src="assets/sample5.png" /></p>
 
 # VSPD Dataset
 
